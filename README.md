@@ -130,7 +130,7 @@ Asegúrate de tener instalado:
 - Cuenta en Cloudinary
 
 ## Instalación
-1. Clonar el repositorio
+Clonar el repositorio
 
 ```bash
 git clone https://github.com/sebastian-alpizar/modern-POS-platform.git
