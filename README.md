@@ -1,5 +1,5 @@
 # modern-POS-platform
-Sistema de Punto de Venta (POS) moderno y escalable, desarrollado como proyecto del curso de Node.js, integrando NestJS en el backend y Next.js 15 (App Router) en el frontend, con TypeScript de principio a fin.
+Sistema de Punto de Venta (POS) moderno y escalable, integrando NestJS en el backend y Next.js 15 (App Router) en el frontend, con TypeScript de principio a fin.
 
 ## Descripción General
 NextPOS es una plataforma full-stack para la gestión de ventas, productos, categorías y cupones de descuento.
