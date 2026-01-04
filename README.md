@@ -64,7 +64,6 @@ Arquitectura clara, escalable y mantenible
 - NPM
 - Git & GitHub
 - ESLint & Prettier
-- FileTree Pro (documentación de estructura)
 
 ## Arquitectura del Proyecto
 
